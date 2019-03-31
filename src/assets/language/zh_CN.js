@@ -1,0 +1,67 @@
+  /* 国际化zh_cn */
+
+module.exports = {
+    index:{
+        Traditional : '简体中文',
+        Mandarin : '繁体中文',
+        In_the_name_of_trust : '精益求精',
+        Warmly_welcome : '诚邀莅临',
+        Your_professional : '您专业顾问团队，快捷、全心',
+        Sign_up : '我们量身为您定制的说明会',
+        overseas_property : '了解房产及相关报税和贷款服务',
+        buying_processes : '了解买房流程和服务认识最高品质最大的开发商',
+        About_Us : '关于我们',
+        in_2003 : `业主能够在线上平台实现在线委托，业主可以从链家网获取真实成交价格参考、房源竞争力分析和房源动态随时查等信息和服务。同时链家会为业主匹配的专属经纪人，不仅为业主提供实地勘察房屋、客户带看与反馈、维护更新房源信息等一系列服务，而且一对一的服务既能有效避免业主被骚扰，同时也便于经纪人第一时间响应业主的服务需求。透明的成交信息、自主的卖房体验、全面的交易资讯让卖房更放心与高效`,
+        mainly_service : '我们目前提供的服务版块主要包括：客户房产投资建议、税号申请、年度报税、特殊报税及贷款服务等。',
+        contact_windows : '在等地皆有联系窗口',
+        addr : '北京市',
+        Our_Product_and_Service : '我们的服务',
+        Find_a_Property : '海外房产咨询',
+        Whether_you : `“购房指南“板块为客户提供专家解答、热门问题、购房百科服务，为购房新手提供详尽参考资料。`,
+        Tax_Return_Service : '报税服务',
+        We_will : '以数据驱动的全价值链房产服务平台。我们将:',
+        will_1 : '推动行业进步，让房屋交易不再难，帮助房产经纪人赢得职业尊严',
+        will_2 : '在所有渠道发布的房屋买卖及真实存在、真实在售、真实图片、真实价格。',
+        will_3 : '通过线上线下打通及大数据处理能力，为消费者提供高品质',
+        will_4 : '成为“住”的入口',
+        Mortgage_Intermediary_Service : '贷款中介服务',
+        We_specialize : `我们专注于房产贷款服务，并与
+            92家银行有固定的贷款关系, 我们将从这些银
+            行数据库中为您挑选最合适的贷款方案，协助您
+            顺利购房。`,
+        need_further : `如果您需要取得进一步的信息 、
+            或咨询房产及相关服务，请
+            您告知联系方式，我们会尽快与
+            您联系。`,
+        relevant_message: '如果您需要进一步的海外房产信息、相关服务及 最新活动，请您告知联系方式，我们会推送给您 相关的额讯息。',
+        I_need_consultations : '我要咨询',
+        Bj_contact_windows : '在等地皆有联系窗口',
+        Head_office : '北京',
+        organize_property: '全国所有的客户投诉，在客户允许的情况下将在链家网进行公示。公示的内容包括投诉原因、处理过程以及处理结果。 现在就报名您专属的说明会 ！',
+        Contact_Us: '与我联系',
+        Bj_office: '办公地点',
+        Taiwan_Office: '办公地点',
+        Subscribe: '订阅中心',
+        applies_to_your_attention: '请选择您关注的信息',
+        Property_in_UK: '北京房产',
+        Property_in_DE: '上海房产',
+        Property_in_JP: '深圳房产',
+        Property_in_TW: '广州房产',
+        Mortgage_Service: '房产贷款服务',
+        Submit: '提交',
+        First_name: '姓',
+        Last_name: '名',
+        E_mail: '电子邮箱',
+        Mobile_Phone: '移动电话',
+        Phone: '电话',
+        your_Requirement: '简述需求',
+        sign_up_for_this_event: '报名说明会',
+        Product_Service: '产品与服务',
+        Latest_News: '最新活动',
+        index: '首页',
+        Session_title: '海外房产投资分享会 (3/23 3/24 台北周末场)',
+        Session_content: `通过发力移动互联网，多功能全渠道的产品矩阵大大增强了经纪人与客户之间的互动与互通，实现了房源、业主、客户和经纪人的高效关联。链家网通过分析客户找房期间的高频交互数据，呈现客户交易行为的特征与偏好，帮助客户具象化其需求，建立客户与房源的关系图谱，实现精准匹配。为用户提供从找房、看房、买房、过户等一条龙服务，剔除并重构交易场景中冗余、复杂的流程，实现用户体验和作业效率的双提升。`,
+        Customizing_Your_Session: '您的专属报名会',
+        tw_addr: '101',
+    }
+}
